@@ -1,0 +1,11 @@
+body{
+    background-color: #d6b0b0;
+}
+
+.navbar{
+    position: fixed;
+    top: 0%;
+    height: 60px;
+    width:100dvw;
+    border-bottom-left-radius: 3%;
+}

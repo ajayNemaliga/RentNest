@@ -1,0 +1,35 @@
+
+.navbar{  
+    height: 60px;
+    background-color: #E2DAD6 !important;
+}
+.nav-link{
+    color: #7FA1C3;
+}
+.nav-link:hover{
+    color: #6482AD;
+}
+
+.f-info-links a{
+    text-decoration: none;
+}
+.f-info-links a:hover{
+    text-decoration: underline;
+}
+.f-info{
+    min-height: 60px;
+    background-color: #7FA1C3;
+    color: #E2DAD6;
+}
+.f-info-social i{
+    color: #E2DAD6;
+}
+.f-info-links,.f-info-socials,.f-copyright{
+
+    color: #E2DAD6;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: space-evenly;
+}

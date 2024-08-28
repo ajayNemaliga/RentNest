@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="20" fill="#2D89EF"/>
+  <path d="M50 15 L20 40 L20 75 H80 L80 40 Z" fill="#FFFFFF" stroke="#1E4E79" stroke-width="5"/>
+  <circle cx="50" cy="55" r="10" fill="#1E4E79"/>
+  <text x="50%" y="90%" font-family="Arial, sans-serif" font-size="12" fill="#FFFFFF" text-anchor="middle" dy=".3em">RentNest</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none">
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="48" fill="#6482AD"/>
+  
+  <!-- House/Nest Shape -->
+  <path d="M30 60 L50 40 L70 60 V80 H30 V60 Z" fill="#FFFFFF"/>
+  
+  <!-- Roof -->
+  <path d="M25 60 L50 35 L75 60" fill="#E3E3E3"/>
+  
+  <!-- Text -->
+  <text x="50%" y="95%" font-family="Arial, sans-serif" font-size="10" fill="#FFFFFF" text-anchor="middle">RentNest</text>
+</svg>

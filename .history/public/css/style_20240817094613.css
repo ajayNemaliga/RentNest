@@ -1,0 +1,9 @@
+.body{
+    margin-top: 70px;
+}
+.navbar{
+    position: fixed;
+    top: 0%;
+    height: 60px;
+    width:100dvw;
+}
